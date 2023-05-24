@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "136661647427",
+    "project_id": "saayn-ae146",
+    "storage_bucket": "saayn-ae146.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136661647427:android:d85f3e79f93088a932d4f6",
+        "android_client_info": {
+          "package_name": "billiardsplay.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136661647427-avdss7nu97pabrg19cb7b59g3pg4um66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmnt1jzbVtt9oteJ35ZpHk-p-m5-GWJqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136661647427-avdss7nu97pabrg19cb7b59g3pg4um66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
